@@ -16,7 +16,7 @@ _Even though you already know how to make non-Redux React apps, take your time a
 
 Once you've successfully completed the tutorial, add Redux and React-Redux to your tic-tac-toe game and refactor the application to rely solely on Redux for all application state management._
 
-
+![alt text](https://github.com/liliiakryvelova/React-Game---Tic-Tac-Toe/blob/main/src/img/img1.png)
 
 ## Setup/Installation Requirements
 
